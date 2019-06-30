@@ -1,3 +1,6 @@
 # hetao
 
-何涛
+编译
+make build
+运行
+make start
