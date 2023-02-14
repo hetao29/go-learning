@@ -9,7 +9,7 @@ replace (
 	user v1.0.0 => ./models/user
 )
 
-require github.com/astaxie/beego v1.11.1
+require github.com/astaxie/beego v1.12.2
 
 require user v1.0.0 // indirect
 
